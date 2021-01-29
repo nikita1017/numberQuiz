@@ -1,0 +1,36 @@
+html{
+    background-image: url("Cosmos fon.jpg");
+    background-size: cover;
+    background-position: center;
+
+    
+}
+form{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    background-color: gold;
+    width: 90%;
+    max-width: 590px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+}
+p{ 
+    margin-top: 10px;
+    text-align: center;
+    background: goldenrod;
+}
+input,button{
+    font-family: 'Roboto Slab', serif;
+    line-height: 40px;
+    margin-bottom: 10px;
+    border: 3px solid goldenrod;
+    border-radius: 5px;
+    background: white;
+    text-align: center;
+}
